@@ -1,4 +1,4 @@
 ---NRST Github
 ---A little Team
----Email:NRGServer@outlook.com
+---Email:NRSTWorkGroup@hotmail.com
 ---Chinese Team
